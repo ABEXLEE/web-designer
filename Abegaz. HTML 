@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Insights Blog</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .container { width: 80%; margin: auto; }
+        .post { margin-bottom: 20px; }
+        .post-title { font-size: 24px; color: #333; }
+        .post-content { font-size: 16px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AI Insights Blog</h1>
+        
+        <!-- Post 1 -->
+        <div class="post">
+            <h2 class="post-title">Generative AI</h2>
+            <p class="post-content">
+                This technology has seen rapid growth and is expected to continue evolving. 
+                Generative AI has reached a phase where it’s accessible to hobbyists and is moving 
+                towards more practical applications in everyday life.
+            </p>
+        </div>
+        
+        <!-- Post 2 -->
+        <div class="post">
+            <h2 class="post-title">Multimodal AI</h2>
+            <p class="post-content">
+                AI that can understand and generate content across different modes, such as text, 
+                images, and sounds, is becoming increasingly important.
+            </p>
+        </div>
+        
+        <!-- Post 3 -->
+        <div class="post">
+            <h2 class="post-title">Smaller Language Models</h2>
+            <p class="post-content">
+                There’s a shift towards more efficient language models that are easier to use and 
+                more accessible to the public.
+            </p>
+        </div>
+        
+        <!-- Post 4 -->
+        <div class="post">
+            <h2 class="post-title">AI in Recruitment</h2>
+            <p class="post-content">
+                AI is expected to play a significant role in enhancing the candidate experience, 
+                with personalized interview questions and assessments tailored to individual candidates.
+            </p>
+        </div>
+        
+        <!-- Post 5 -->
+        <div class="post">
+            <h2 class="post-title">Video Interviewing Tools</h2>
+            <p class="post-content">
+                Sophisticated AI tools that analyze facial expressions, tone of voice, and other 
+                non-verbal cues are becoming more prevalent in recruitment software.
+            </p>
+        </div>
+        
+        <!-- Post 6 -->
+        <div class="post">
+            <h2 class="post-title">AI Ethics and Regulation</h2>
+            <p class="post-content">
+                As AI becomes more integrated into various sectors, there’s a growing focus on 
+                governance, ethical concerns, and the development of policies to make AI more 
+                trustworthy and sustainable.
+            </p>
+        </div>
+        
+    </div>
+</body>
+</html>
