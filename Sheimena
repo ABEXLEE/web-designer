@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sheimena</title>
+    <style>
+        header {
+            background-color: #4CAF50;
+            padding: 20px;
+            text-align: center;
+            font-size: 35px;
+            color: white;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+        }
+        form {
+            max-width: 400px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        input[type="text"], input[type="email"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+        button[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Welcome to Sheimena!
+    </header>
+    <img src="your-image-url-here" alt="Sheimena Logo">
+    <p>Sheimena is a platform for...</p>
+    <form action="/submit_form.php" method="post">
+        <label for="fname">First Name:</label>
+        <input type="text" id="fname" name="fname" required>
+        <label for="lname">Last Name:</label>
+        <input type="text" id="lname" name="lname" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <!-- Add more input fields as needed -->
+        <button type="submit">Register</button>
+    </form>
+    <p>Dear Sheimena Community,</p>
+    <p>Welcome to our platform! We're thrilled to have you join us. Whether you're here to learn, connect, or create, Sheimena is your space to explore, collaborate, and grow.</p>
+    <p>Feel free to explore our features, engage with other members, and make the most of your Sheimena experience. If you have any questions or need assistance, don't hesitate to reach out.</p>
+    <p>Wishing you an exciting journey ahead!</p>
+    <p>Best regards,</p>
+    <p>Abegaz Abayneh Abite</p>
+</body>
+</html>
